@@ -1,0 +1,29 @@
+body { 
+    margin-bottom: 100px;
+    color: white;
+    background: black;
+
+}
+
+header {
+border: solid 4px green;
+
+}
+
+h1{
+font-size: 60px;
+color: aqua;
+}
+
+h2{
+   font-size: 40px;
+   color: aquamarine; 
+}
+
+img { 
+    height: 200;
+}
+
+.categoria-videos{ display: flex;
+overflow-x: auto;
+}
